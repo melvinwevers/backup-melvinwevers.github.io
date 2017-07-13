@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 name: Melvin Wevers
+title: Melvin Wevers
+description: My professional webpage
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
