@@ -1,6 +1,10 @@
 body {
+    background-color: #EEEEEE;
     margin: 60px auto;
     width: 70%;
+    font: 100%/1.5 Avenir, Arial;
+    -webkit-font-smoothing: antialiased;
+     color: #333;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -24,6 +28,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+   
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
