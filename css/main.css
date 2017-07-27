@@ -36,6 +36,7 @@ p {
    color: #333;
 }
 footer {
+    clear:both;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
@@ -47,4 +48,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.cover {
+    float: left;
+}
+.right {
+    float: right;
 }
