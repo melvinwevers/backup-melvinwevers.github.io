@@ -49,3 +49,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+img {
+  box-shadow: 2px 2px 3px #aaa;
+    }    
